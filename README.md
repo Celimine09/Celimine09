@@ -31,3 +31,8 @@
         <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=celimine09&show_icons=true&locale=en&layout=compact&theme=dark" alt="bobby9326" height="200" /></td>
     </tr>
 </table>
+
+###
+<br clear="both">
+<img src="https://raw.githubusercontent.com/celimine09/celimine09/output/snake.svg" alt="Snake animation" />
+
