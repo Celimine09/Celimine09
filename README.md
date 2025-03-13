@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nattanan</h1>
 <h3 align="center">An Acoustic Samoyed Programmer,Who are learning.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=celimine09&label=Profile%20views&color=0e75b6&style=flat" alt="celimine09" /> </p>
-
 - 🔭 I’m currently study on **King Mongkut's Institute of Technology Ladkrabang(KMITL)**
 
 - 🌱 I’m currently learning **Frontend,Backend and Fullstack**
@@ -10,6 +8,12 @@
 - 📫 How to reach me **celimine.nine@gmail.com or celimine09@hotmail.com**
 
 - ⚡ With love and remembrance to the legends we lost **Kobe Bryant,Juice WRLD and XXXTentacion**
+
+<div align="center">
+  <a href = "https://spotify-github-profile.kittinanx.com/api/view?uid=31ugnfavwfswozxt2ijc3ou5z2ku&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ugnfavwfswozxt2ijc3ou5z2ku&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="celimine09"  height="400"/></a>
+</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=celimine09&label=Profile%20views&color=0e75b6&style=flat" alt="celimine09" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
