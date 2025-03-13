@@ -32,7 +32,3 @@
     </tr>
 </table>
 
-###
-<br clear="both">
-<img src="https://raw.githubusercontent.com/celimine09/celimine09/output/snake.svg" alt="Snake animation" />
-
