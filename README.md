@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nattanan</h1>
 <h3 align="center">An Acoustic Samoyed Programmer,Who are learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=celimine09&label=Profile%20views&color=0e75b6&style=flat" alt="celimine09" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=celimine09&label=Profile%20views&color=0e75b6&style=flat" alt="celimine09" /> </p>
 
 - 🔭 I’m currently study on **King Mongkut's Institute of Technology Ladkrabang(KMITL)**
 
