@@ -33,5 +33,5 @@
 </table>
 
 <p align="center">
-  &copy; {new Date().getFullYear()} Jaangkhon. All rights reserved.
+  &copy; 2026 Celimine09. All rights reserved.
 </p>
