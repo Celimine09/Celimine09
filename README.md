@@ -32,3 +32,6 @@
     </tr>
 </table>
 
+<p align="center">
+  &copy; {new Date().getFullYear()} Jaangkhon. All rights reserved.
+</p>
